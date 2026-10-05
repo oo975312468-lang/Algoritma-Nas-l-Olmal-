@@ -11,9 +11,9 @@
 
 Her algoritmanın bir başlangıç noktası belirli işlem adımı ve bir bitiş noktası içermelidir Sonsuz döngüye girmemelidir
 
-ÖRNEK!!!
-
 Sonsuz döngü (infinite loop) bir algoritma veya kod bloğunun, bitiş koşulu hiç sağlanmadığı için durmaksızın çalışmaya devam etmesi durumudur
+
+ÖRNEK!!!
 
 -Şaç Yıkama-
 
