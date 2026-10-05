@@ -3,15 +3,15 @@
 > [!CAUTION]
 > ETKİNLİK-SONLULUK-KESİNLİK-GİRİŞ/ÇIKIŞ-BAŞARIM/PERFORMANS
 
-1.Bölüm (Kesinlik ve Etkinlik ilkeleri)
+1.Bölüm (Etkinlik İlkelesi)
 
- Bilgisayarların akıl yürütme yetkisi yoktur. Bu nedenle algoritmada yer alan her bir basamak net, sade ve yoruma kapalı olacak şekilde tasarlanmış olmalıdır.Hiçbir belirsizlik olmamalıdır, sade olmalı ve ihtiyaç duyulduğunda başka algoritmaların içinde de verimli bir şekilde görev alabilmelidir
+ Bilgisayarların akıl yürütme yetkisi yoktur. Bu nedenle algoritmada yer alan her bir basamak net, sade ve yoruma kapalı olacak şekilde tasarlanmış olmalıdır.Hiçbir belirsizlik olmamalıdır, sade olmalı ve ihtiyaç duyulduğunda başka algoritmaların içinde de verimli bir şekilde görev alabilmelidir.
 
 2.Bölüm(Sonlulk İlkesi)
 
-Her algoritmanın bir başlangıç noktası belirli işlem adımı ve bir bitiş noktası içermelidir Sonsuz döngüye girmemelidir
+Her algoritmanın bir başlangıç noktası belirli işlem adımı ve bir bitiş noktası içermelidir Sonsuz döngüye girmemelidir.
 
-Sonsuz döngü (infinite loop) bir algoritma veya kod bloğunun, bitiş koşulu hiç sağlanmadığı için durmaksızın çalışmaya devam etmesi durumudur
+Sonsuz döngü (infinite loop) bir algoritma veya kod bloğunun, bitiş koşulu hiç sağlanmadığı için durmaksızın çalışmaya devam etmesi durumudur.
 
 ÖRNEK!!!
 
@@ -25,3 +25,14 @@ Sonsuz döngü (infinite loop) bir algoritma veya kod bloğunun, bitiş koşulu 
 
 4.TEKRAR UYGULAYIN
 
+3.Bölüm (Kesinlik İlkesi)
+
+İşlem sonucu kesin ve net olmalı ,aynı veri için her yeni çalıştırmada aynı sonucu üretmelidir.
+
+4.Bölüm (Giriş/Çıkış İlkesi)
+
+Algoritma giriş (üzerinde işlem yapılacak değerler) ve çıkış (yapılan işlemler neticesinde üretilen sonuç değerleri değerlerine sahip olmalıdır.
+
+5.Bölüm (Başarım/Performans)
+
+Amaç donanım gereksinimi (bellek kulanımı gibi) çalışma süresi gibi performans kriterlerini dikkate alarak yüksek başarımlı programlar yazmak olmalıdır.
