@@ -5,7 +5,7 @@
 
 1.Bölüm (Kesinlik ve Etkinlik ilkeleri)
 
- Bilgisayarların akıl yürütme yetkisi yoktur. Bu nedenle algoritmada yer alan her bir basamak net, sade ve yoruma akapalı olacak şekilde tasarlanmış olmalıdır.Hiçbir belirsizlik olmamalıdır, sade olmalı ve ihtiyaç duyulduğunda başka algoritmaların içinde de verimli bir şekilde görev alabilmelidir
+ Bilgisayarların akıl yürütme yetkisi yoktur. Bu nedenle algoritmada yer alan her bir basamak net, sade ve yoruma kapalı olacak şekilde tasarlanmış olmalıdır.Hiçbir belirsizlik olmamalıdır, sade olmalı ve ihtiyaç duyulduğunda başka algoritmaların içinde de verimli bir şekilde görev alabilmelidir
 
 2.Bölüm(Sonlulk İlkesi)
 
